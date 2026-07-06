@@ -1,2 +1,3 @@
 # Indian-data-crime-analysis
-It's my first github repository
+It's my first git repository
+Author- Birendra Ghosh
